@@ -3,7 +3,7 @@
 
 ## Project 2: Continuous Control
 Introduction
-This project repository contains Nishi Sood’s work for the Udacity's Deep Reinforcement Learning Nanodegree `Project 2: Continuous Control`. For this project, I have trained an agent that could control a double-jointed arm towards specific locations.
+This project repository contains Tarun Rao's work for the Udacity's Deep Reinforcement Learning Nanodegree `Project 2: Continuous Control`. For this project, I have trained an agent that could control a double-jointed arm towards specific locations.
 
 
 ## Project's goal
@@ -128,8 +128,5 @@ Environment solved in 150 episodes with Average Score: 30.11
 
 ## Ideas for future work
 - We could have used different Optimization algorithm to check the difference in the Agent trained and its performance.
-- There could be better results by making use of prioritized experience replay with the existing learning algorithm.
-- Distributed Distributional Deterministic Policy Gradients (D4PG) has achieved state of the art results on continuous control problems. Also, PPO, A3C can be used in multi agent training environment.
-- It would be interesting to see how the agent performs on this environment in future implementations.
-- In future implementations,  I can try testing the agent with difference hyperparameter values, like different Sigma values, faster and smaller learning rates, tweaking the neural network, to choose the final model
+- In future implementations,  I can try testing the agent with difference hyperparameter values
 
