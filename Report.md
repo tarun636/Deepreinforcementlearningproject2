@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning : Project 2: Continuous Control Report
 
-## Author : Nishi Sood
+## Author : Tarun Rao
 This document presents a technical description of the Continuous Control project in the context of the Deep Reinforcement Learning Nanodegree from Udacity.
 
 
@@ -120,11 +120,6 @@ Environment solved in 150 episodes!	Average Score: 30.11
 
 ## Ideas for future work
 - We could have used different Optimization algorithm to check the difference in the Agent trained and its performance.
-- There could be better results by making use of prioritized experience replay with the existing learning algorithm.
-- Distributed Distributional Deterministic Policy Gradients - D4PG looks very interesting has achieved state of the art results on continuous control problems
- - Also, PPO, A3C can be used in multi agent training environment.
-- It would be interesting to see how the agent performs on this environment in future implementations.
-- In future implementations,  I can try testing the agent with difference hyperparameter values, like different Sigma values, faster and smaller learning rates, tweaking the neural network, to choose the final model
-- Open AI's blog post Better Exploration with Parameter Noise
+- In future implementations,  I can try testing the agent with difference hyperparameter values
 
 
