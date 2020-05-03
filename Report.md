@@ -112,9 +112,9 @@ Training of the agent was performed on the Continuous_Control_Solution.ipynb not
 
 ## Results
 
-The agent was able to solve the environment in 150 episodes with an average Score: 30.11. Below is the learning curve.
+The agent was able to solve the environment in 188 episodes with an average Score: 30.11. Below is the learning curve.
 
-Environment solved in 150 episodes!	Average Score: 30.11
+Environment solved in 150 episodes!	Average Score: 30.06
 ![image of learning curve](learning_curves.jpg)
 
 
